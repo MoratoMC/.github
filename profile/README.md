@@ -1,5 +1,4 @@
-# WhCraftMC
-这里是WhCraftMC,致力于开放WhCraft服务器.
+# Morato
 
 
 
